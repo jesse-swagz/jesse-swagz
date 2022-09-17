@@ -1,16 +1,14 @@
-### Hi there 👋
 
-<!--
-**jesse-swagz/jesse-swagz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello there; welcome 👋🏾
+AltSchool Badge Website Badge Linkedin Badge Twitter Badge
 
-Here are some ideas to get you started:
+I'm a Software Engineer (Junior Level).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Here's a quick summary about me:
+
+😊 Pronouns: He/him
+💡 Fun fact: I'm currently studying backend engineering at AltSchool Africa School of Software Engineering Class of 2022.
+🌱 I’m currently learning node.js
+😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
+💼 Job interests: Software Engineer (Intern or Junior level).
+📫 You can view my resume and contact me by emailing jesseswags@gmail.com.
