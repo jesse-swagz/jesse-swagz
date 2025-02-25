@@ -1,7 +1,7 @@
 
 Hello there; welcome 👋🏾
 
-I'm a Product Manager, ignore any pull request that says other wise 😊,. I've gotten my hand dirty with backend codes back in the day.
+I'm a Product Manager, ignore any pull request that says other wise 😊,. I've gotten my hands dirty with backend codes back in the day.
 
 😊 Pronouns: He/him
 💡 Fun fact: I love life, and i don't take it too seriously.
