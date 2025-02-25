@@ -1,14 +1,10 @@
 
 Hello there; welcome 👋🏾
-AltSchool Badge Website Badge Linkedin Badge Twitter Badge
 
-I'm a Software Engineer (Junior Level).
-
-Here's a quick summary about me:
+I'm a Product Manager, ignore any pull request that says other wise 😊,. I've gotten my hand dirty with backend codes back in the day.
 
 😊 Pronouns: He/him
-💡 Fun fact: I'm currently studying backend engineering at AltSchool Africa School of Software Engineering Class of 2022.
-🌱 I’m currently learning node.js
-😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
-💼 Job interests: Software Engineer (Intern or Junior level).
-📫 You can view my resume and contact me by emailing jesseswags@gmail.com.
+💡 Fun fact: I love life, and i don't take it too seriously.
+😊 I’m looking for help with open source projects, and entry-level opportunities. I want to work with Brilliant minds to build solutions that will impact human life.
+💼 Job interests: Product Manager Role
+📫 You can contact me by emailing jesseswags@gmail.com.
